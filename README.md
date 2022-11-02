@@ -57,3 +57,68 @@ M2 (US)
 The money supply is all the currency and other liquid instruments in a country's economy on the date measured. The money supply roughly includes both cash and deposits that can be used almost as easily as cash. 
 
 * [WM2NS - Fred](https://fred.stlouisfed.org/series/WM2NS)
+
+## Sentiment indicators
+```
+Index VIX
+```
+The Cboe Volatility Index (VIX) is a real-time index that represents the market’s expectations for the relative strength of near-term price changes of the S&P 500 Index (SPX). Because it is derived from the prices of SPX index options with near-term expiration dates, it generates a 30-day forward projection of volatility. Volatility, or how fast prices change, is often seen as a way to gauge market sentiment, and in particular the degree of fear among market participants. 
+
+* [VIX - Fred](https://fred.stlouisfed.org/series/VIXCLS)
+
+```
+Fear & Greed index
+```
+The fear and greed index was developed by CNNMoney to measure two of the primary emotions that influence how much investors are willing to pay for stocks. The fear and greed index is measured on a daily, weekly, monthly, and yearly basis. In theory, the index can be used to gauge whether the stock market is fairly priced. This is based on the logic that excessive fear tends to drive down share prices, and too much greed tends to have the opposite effect.
+
+* [Fear & Greed index - cnn](https://edition.cnn.com/markets/fear-and-greed)
+
+## Main marktes
+```
+DX
+```
+The U.S. dollar index (USDX) is a measure of the value of the U.S. dollar relative to a basket of foreign currencies. The USDX was established by the U.S. Federal Reserve in 1973 after the dissolution of the Bretton Woods Agreement. It is now maintained by ICE Data Indices, a subsidiary of the Intercontinental Exchange (ICE).
+
+The euro is, by far, the largest component of the index, making up 57.6% of the basket. The weights of the rest of the currencies in the index are JPY (13.6%), GBP (11.9%), CAD (9.1%), SEK (4.2%), and CHF (3.6%).
+
+* [DX weeekly chart - finviz](https://finviz.com/futures_charts.ashx?t=DX&p=w1)
+
+```
+ES
+```
+The S&P 500 Index, or Standard & Poor's 500 Index, is a market-capitalization-weighted index of 500 leading publicly traded companies in the U.S. 
+
+It is not an exact list of the top 500 U.S. companies by market cap because there are other criteria that the index includes. Still, the S&P 500 index is regarded as one of the best gauges of prominent American equities' performance, and by extension, that of the stock market overall.
+
+* [ES weekly chart - finviz](https://finviz.com/futures_charts.ashx?t=ES&p=w1)
+
+```
+BTC
+```
+Bitcoin (BTC) is a cryptocurrency, a virtual currency designed to act as money and a form of payment outside the control of any one person, group, or entity, and thus removing the need for third-party involvement in financial transactions. It is rewarded to blockchain miners for the work done to verify transactions and can be purchased on several exchanges. 
+
+* [BTC weekly chart - finviz](https://finviz.com/crypto_charts.ashx?t=BTCUSD&tf=w1)
+
+```
+EURUSD
+```
+The EUR/USD pair has become the most widely-traded pair in the world because it represents a combination of two of the biggest economies in the world. It is affected by factors that influence the value of the euro and/or the U.S. dollar in relation to each other and to other currencies. For this reason, the interest rate differential between the European Central Bank (ECB) and the Federal Reserve (Fed) affects the value of these currencies when compared to each other. For example, when the Fed intervenes in open market activities to make the U.S. dollar stronger, the value of the EUR/USD cross could decline due to a strengthening of the U.S. dollar compared to the euro. Along the same lines, bad news from the EU economy has an adverse effect on prices for the EUR/USD pair. News of the government debt crisis and immigrant influx in Italy and Greece resulted in a euro selloff, prompting the pair's exchange rate to plunge.
+
+* [EURUSD weekly chart - finviz](https://finviz.com/forex_charts.ashx?t=EURUSD&tf=w1)
+
+```
+GC
+```
+Commodity gold.
+
+* [GC weekly chart - finviz](https://finviz.com/futures_charts.ashx?t=GC&p=w1)
+
+```
+US30Y
+```
+30-year Treasuries are bonds issued by the U.S. government and have a maturity of 30 years.
+
+The U.S. government borrows money from investors by issuing debt securities through its Treasury department. Debt instruments that can be purchased from the government include Treasury bills (T-bills), notes, and Treasury Inflation-Protected Securities (TIPS). T-bills are marketable securities issued for terms of less than a year, and Treasury notes are issued with maturities from two to 10 years. 
+
+* [US30Y - tradingeconomics](https://tradingeconomics.com/usgg30y:ind)
+
