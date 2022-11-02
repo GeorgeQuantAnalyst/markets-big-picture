@@ -73,7 +73,7 @@ The fear and greed index was developed by CNNMoney to measure two of the primary
 
 * [Fear & Greed index - cnn](https://edition.cnn.com/markets/fear-and-greed)
 
-## Main marktes
+## Main markets
 ```
 DX
 ```
