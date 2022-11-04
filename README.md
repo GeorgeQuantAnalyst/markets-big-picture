@@ -5,7 +5,7 @@
 
 An economic calendar is used by investors to monitor market-moving events, such as economic indicators and monetary policy decisions. Market-moving events, which are typically announced or released in a report, have a high probability of impacting the financial markets. An economic calendar is usually displayed as a chart showing the days, weeks and months of a particular year. Each day lists several market-moving events in chronological order, giving investors time to research and anticipate the specific release of interest to them.
 
-Most imprtant events are FOMC meeting, US Federal Funds Rate, CPI, UNRATE, GDP and PMI.
+Most important events are FOMC meeting, US Federal Funds Rate, CPI, UNRATE, GDP and PMI.
 
 * [Macro-economic calendar for this month - ForexFactory](https://www.forexfactory.com/calendar?month=this)
 * [Macro-economic calendar for next month - ForexFactory](https://www.forexfactory.com/calendar?month=next)
@@ -47,7 +47,7 @@ Though GDP is typically calculated on an annual basis, it is sometimes calculate
 T10Y2Y (US)
 ```
 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity. 
-If price is below around or below zero probably crisis is near.
+If price is around or below zero probably crisis is near.
 
 * [T10Y2Y - Fred](https://fred.stlouisfed.org/series/T10Y2Y/)
 ```
