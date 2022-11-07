@@ -7,6 +7,7 @@ An economic calendar is used by investors to monitor market-moving events, such 
 
 Most important events are FOMC meeting, US Federal Funds Rate, CPI, UNRATE, GDP and PMI.
 
+* [Macro-economic calendar for this week impact on crypto] (https://www.cryptocraft.com/calendar?week=this)
 * [Macro-economic calendar for this month - ForexFactory](https://www.forexfactory.com/calendar?month=this)
 * [Macro-economic calendar for next month - ForexFactory](https://www.forexfactory.com/calendar?month=next)
 
